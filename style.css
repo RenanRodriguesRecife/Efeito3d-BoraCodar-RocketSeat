@@ -105,4 +105,18 @@ main{
     display: flex;
     flex-direction: column;
     gap: 16px;
+    width: 210px;
+}
+
+main .info h4{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 130%;
+    color: var(--title);
+}
+
+main .info span{
+    color: var(--description-info);
+    font-size: 14px;
+    line-height: 18px;
 }

@@ -22,7 +22,7 @@ body{
     color: #fff;
 }
 
-.container{
+.container,.cards{
     display: flex;
     align-items: center;
 }
